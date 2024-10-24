@@ -11,12 +11,12 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: Robert Jungnickel
+description: Human-Centric Machine Learning Researcher
 owner:
-  name: _your name_ # or company name
-  url: "http://example.com" # your URL
-first_published: 2010 # if migrating another site, the year of your first publish
+  name: Robert Jungnickel # or company name
+  url: "r-jungnickel.github.io" # your URL
+first_published: 2024 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
 url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,16 +36,16 @@ closing-para: _Your detailed closing_
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  twitter: https://twitter.com/_username_
-  github: https://github.com/_username_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_username_
+  #twitter: https://twitter.com/_username_
+  github: https://github.com/r-jungnickel
+  #linkedin-square: https://linkedin.com/in/_username_
+  #facebook-official: https://facebook.com/_username_
   #google-plus-square: https://plus.google.com/u/0/+_username_
-  email: /contact/ # you can configure and use this contact page or use your email addy
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
+  #email: /contact/ # you can configure and use this contact page or use your email addy
+  oricd: https://orcid.org/0000-0002-9102-722X
+  scopus: https://www.scopus.com/authid/detail.uri?authorId=57224258404
+  researchgate: https://www.researchgate.net/profile/Robert-Jungnickel
+  google-scholar: https://scholar.google.com/citations?user=EYBKgT8AAAAJ&hl=en
   #stack-overflow:
   #vimeo:
   #reddit:
