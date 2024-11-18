@@ -30,7 +30,7 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Human-Centric Machine Learning Researcher 
+  title: Human-Centric Machine-Learning Researcher 
   text: "My research focuses on the integration of human insights into AI-driven algorithmic systems."
 closing-head: Connect with Me
 closing-para: I am keen to collaborate and engage in discussions that push the frontiers of technology and society. Feel free to reach out via any of the platforms listed below or email me directly.
